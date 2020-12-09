@@ -16,7 +16,7 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
 .textcircle3 {text-align: center;width: 180px;margin-left: 34px;}
 
 .topline {height:4px;background: #7b9263;width:980px; margin:0px auto;}
-.logo {background: url(../img/logo.png) no-repeat;width:160px;height:106px;margin-top: -90px;}
+.logo {background: url(../img/strangespotLogo.png) no-repeat;width:160px;height:106px;margin-top: -90px;}
 .menubg{background:url(../img/menu.png) repeat-x;height:100px;margin:0px 20px;}
 .menuspace {padding-right:200px;}
 .lastmenu {  padding-right: 0 !important; margin-right:0px !important;}
@@ -106,7 +106,6 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
   font-weight: 200;
   line-height: 30px;
   color: #eee !important;
-  text-align: ;
 }
 
 .navbar .brand-logo {
@@ -470,7 +469,7 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
 }
 
 .navbar-inverse .navbar-inner {  
-  height: 179px;   
+  height: 105px;
   margin:0px auto;
 }
 
