@@ -833,14 +833,26 @@ behavior: url(ie-css3.htc); /* This lets IE know to call the script on all eleme
   border-width: 1em 1em 0 0;
 }
 
-.facebook{ background: url(../img/socialicons/facebook.png) no-repeat;width:48px;height:48px;cursor:pointer;float:left;text-align:center;margin-right:5px;}
-.facebook:hover {opacity:0.8;}
-.twitter{ background: url(../img/socialicons/twitter.png) no-repeat;width:48px;height:48px;cursor:pointer;float:left;margin-right:5px;}
-.twitter:hover {opacity:0.8;}
-.google{ background: url(../img/socialicons/google.png) no-repeat;width:48px;height:48px;cursor:pointer;float:left;margin-right:5px;}
-.google:hover {opacity:0.8;}
-.flickr{ background: url(../img/socialicons/flickr.png) no-repeat;width:48px;height:48px;cursor:pointer;float:left;}
-.flickr:hover {opacity:0.8;}
+div.centermargin{
+  text-align: center;
+  display: flex;
+}
+
+div.instagram{
+  padding: 10px;
+}
+
+div.facebook{
+  padding: 10px;
+}
+
+div.fiverr{
+  padding: 10px;
+}
+
+div.patreon{
+  padding: 10px;
+}
 
 .envelope {background:url(../img/contact.png) no-repeat top;height:430px;}
 .envelopeleft {float:left;padding-top: 150px;padding-left: 200px;color: #999;font-size: 13px;font-style: italic;}
@@ -857,3 +869,15 @@ behavior: url(ie-css3.htc); /* This lets IE know to call the script on all eleme
 .hiremetext{font-size: 11px;font-weight:bold;margin-left: 40px;padding-top: 6px;text-transform: uppercase;text-shadow: 1px 1px 0px #111;}
 .hiremetext a {color:#fff;}
 .hiremebadge {background: url(../img/hireme.png) no-repeat; position: relative; float: right;  margin-top: -110px; margin-right: -20px;color:#fff;width:150px;height:50px;}
+
+@media ( max-width: 600px) {
+  .nav .container{
+    width: auto;
+  }
+
+  .boxgrid {
+    width: 100%;
+    display: block;
+  }
+}
+
