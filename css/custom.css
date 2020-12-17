@@ -834,8 +834,9 @@ behavior: url(ie-css3.htc); /* This lets IE know to call the script on all eleme
 }
 
 div.centermargin{
-  text-align: center;
-  display: flex;
+  display:flex;
+  justify-content:space-evenly;
+  margin: auto;
 }
 
 div.instagram{
