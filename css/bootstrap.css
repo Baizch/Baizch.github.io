@@ -192,7 +192,7 @@ body {
   font-size: 16px;
   line-height: 23px;
   color: #333333;
-  background: url(../img/bodybg.png) repeat;
+  background: url(../img/newbackground.png) repeat;
 }
 .container {
   background: #eee url(../img/bg.png) repeat;
@@ -235,7 +235,7 @@ body {
   margin-left: 240px;
 }
 a {
-  color: #73A673;
+  color: #ff5589;
   text-decoration: none;
   line-height: inherit;
   font-weight: inherit;
@@ -1875,7 +1875,7 @@ footer {
 .btn {
   cursor: pointer;
   display: inline-block;
-  background-color: #7b9263;
+  background-color: #ff5589;
   background-repeat: no-repeat;
   padding: 5px 14px 6px;
   color: #fff;

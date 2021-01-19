@@ -15,7 +15,7 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
 .textcircle2 {text-align: center;width: 180px;margin-left: 22px;}
 .textcircle3 {text-align: center;width: 180px;margin-left: 34px;}
 
-.topline {height:4px;background: #7b9263;width:980px; margin:0px auto;}
+.topline {height:4px;background:#956ba9;width:980px; margin:0px auto;}
 .logo {background: url(../img/strangespotLogo.png) no-repeat;width:160px;height:106px;margin-top: -90px;}
 .menubg{background:url(../img/menu.png) repeat-x;height:100px;margin:0px 20px;}
 .menuspace {padding-right:200px;}
@@ -26,7 +26,7 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
 
 .titleline {height:20px;}
 .titlelinesimple {border-top: 1px solid #CCC; border-bottom: 2px solid #fff;margin-bottom:20px;}
-.highlight {background: #7b9263; color: #fff; padding: 1px 3px 2px 3px; display:inline;}
+.highlight {background: #ff5589; color: #fff; padding: 1px 3px 2px 3px; display:inline;}
 .dash {border-bottom:1px dashed;}
 .action {background: #eee; color: #555; display: inline; padding: 2px 10px;}
 
@@ -44,7 +44,7 @@ h1.circle3 {font-size:17px;text-align: center;width: 180px;margin-left: 30px;tex
 .tweettext {}
 .footerli {border-top: 1px solid #CCC; border-bottom: 2px solid #fff; margin-top:30px;}
 .footer {font-size:12px;padding-bottom:10px;}
-.footerend {border-bottom:4px solid #7b9263; width:980px;margin:0px auto;}
+.footerend {border-bottom:4px solid #956ba9; width:980px;margin:0px auto;}
 .centermargin {margin-left:45px;}
 
 .nav > .disabled > a {
@@ -859,7 +859,7 @@ div.patreon{
 .envelopeleft {float:left;padding-top: 150px;padding-left: 200px;color: #999;font-size: 13px;font-style: italic;}
 .envelopeform {padding-top: 70px; padding-left: 400px;}
 .envelopeformtitle {margin-left:48px;}
-.blackbg {background:#333;}
+.blackbg {background:rgb(#ff5589);}
 .blackbg:hover {background:#7b9263;}
 .element .error {border:1px solid #9F1319;}
 .contactarea {height:150px;}
